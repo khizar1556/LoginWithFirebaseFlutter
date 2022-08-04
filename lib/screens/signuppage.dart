@@ -72,7 +72,6 @@ class _SignUpScrState extends State<SignUpScr> {
                     color: Colors.pink[300],
                   )),
                 ),
-
                 const SizedBox(
                   height: 30,
                 ),
@@ -183,7 +182,6 @@ class _SignUpScrState extends State<SignUpScr> {
                     ),
                   ),
                 ),
-
                 Flexible(
                   flex: 2,
                   fit: FlexFit.loose,
@@ -247,7 +245,6 @@ class _SignUpScrState extends State<SignUpScr> {
                     ),
                   ),
                 ),
-
                 const SizedBox(
                   height: 10,
                 ),
@@ -277,7 +274,7 @@ class _SignUpScrState extends State<SignUpScr> {
                         alignment: Alignment.center,
                         width: MediaQuery.of(context).size.width,
                         height: 50,
-                        decoration: const BoxDecoration(
+                        decoration: BoxDecoration(
                           gradient: LinearGradient(
                               begin: Alignment.topLeft,
                               end: Alignment.bottomRight,

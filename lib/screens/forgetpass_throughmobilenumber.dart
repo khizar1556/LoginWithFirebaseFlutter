@@ -97,12 +97,13 @@ class _ForgetPass_MobileNumState extends State<ForgetPass_MobileNum> {
                           decoration: InputDecoration(
                               border: InputBorder.none,
                               prefixIcon: Padding(
-                                padding: const EdgeInsets.symmetric(horizontal: 8),
+                                padding:
+                                    const EdgeInsets.symmetric(horizontal: 8),
                                 child: Container(
                                     height: 30,
                                     width: 50,
                                     child: const Center(
-                                        child:  Text('(+92)',
+                                        child: Text('(+92)',
                                             style: TextStyle(
                                                 fontSize: 18,
                                                 fontWeight: FontWeight.bold)))),
@@ -134,7 +135,7 @@ class _ForgetPass_MobileNumState extends State<ForgetPass_MobileNum> {
                         alignment: Alignment.center,
                         width: MediaQuery.of(context).size.width,
                         height: 50,
-                        decoration: const BoxDecoration(
+                        decoration: BoxDecoration(
                           gradient: LinearGradient(
                               begin: Alignment.topLeft,
                               end: Alignment.bottomRight,

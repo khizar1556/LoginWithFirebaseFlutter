@@ -105,7 +105,7 @@ class _ForgetPasswordScrState extends State<ForgetPasswordScr> {
                                     height: 50,
                                     width: 80,
                                     child: const Center(
-                                      child:  Text(
+                                      child: Text(
                                         "OTP Send",
                                       ),
                                     )),
@@ -177,7 +177,7 @@ class _ForgetPasswordScrState extends State<ForgetPasswordScr> {
                               alignment: Alignment.center,
                               width: MediaQuery.of(context).size.width,
                               height: 50,
-                              decoration: const BoxDecoration(
+                              decoration: BoxDecoration(
                                 gradient: LinearGradient(
                                     begin: Alignment.topLeft,
                                     end: Alignment.bottomRight,
@@ -206,7 +206,7 @@ class _ForgetPasswordScrState extends State<ForgetPasswordScr> {
                               alignment: Alignment.center,
                               width: MediaQuery.of(context).size.width,
                               height: 50,
-                              decoration: const BoxDecoration(
+                              decoration: BoxDecoration(
                                 gradient: LinearGradient(
                                     begin: Alignment.topLeft,
                                     end: Alignment.bottomRight,
