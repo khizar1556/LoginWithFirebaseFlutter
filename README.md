@@ -12,6 +12,7 @@ A new Flutter project.
 This is a Social Login Project, in this you can signin through facebook, google & email
 
 Stating with Login Screen
+
 ![Screenshot_20220802-155541](https://user-images.githubusercontent.com/93259715/183829454-732bb0f5-18e4-4220-8334-4b9298e5d037.png)
 
 if you have an account then you will signin through login button otherwise you need to navigate signup page
