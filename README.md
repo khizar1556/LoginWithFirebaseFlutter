@@ -12,21 +12,23 @@ A new Flutter project.
 This is a Social Login Project, in this you can signin through facebook, google & email
 
 Stating with Login Screen
-![Screenshot_20220802-155445](https://user-images.githubusercontent.com/93259715/182359076-ceceebbb-a9ad-4c1e-9b1d-11123262ca3e.png)
+![Screenshot_20220802-155541](https://user-images.githubusercontent.com/93259715/183829454-732bb0f5-18e4-4220-8334-4b9298e5d037.png)
 
 if you have an account then you will signin through login button otherwise you need to navigate signup page
 
-![Screenshot_20220802-155432](https://user-images.githubusercontent.com/93259715/182359642-3533c18c-43d9-4538-be93-521105e575f2.png)
+![Capture](https://user-images.githubusercontent.com/93259715/183829518-9d41b6ca-537e-4d78-872c-7603796636a7.PNG)
 
 after click on signup button you recieve 6 digit code on your Mobile Number after this you will be signin through Mobile
 
-![Screenshot_20220802-162440](https://user-images.githubusercontent.com/93259715/182364001-56ce4a9e-d047-4bec-a980-ebaaec8654df.png)
+![Capture1](https://user-images.githubusercontent.com/93259715/183829554-48c40c91-d370-49c6-8ccd-582706bf9142.PNG)
 
 & if you have already sign in then it will directly navigate to the Home Screen (Shared Prefrences pending)
 
+///----///
+
 ## Forget Password (change password & Email OTP )
 
-![Screenshot_20220802-155457](https://user-images.githubusercontent.com/93259715/182360132-3cd4acac-da81-4b41-89fe-0c53f7a7df00.png)
+![Capture2](https://user-images.githubusercontent.com/93259715/183829678-848dae42-4d36-4bf2-8a91-6b1c95da28db.PNG)
 
 
 in this TextField enter your email address and click on the Reset password Button, on this click you recieve a link in your email address,
@@ -38,20 +40,23 @@ open the link and change your new Password
 
 when you press the (OTP Send), a new TextField added and OTP verification code send on your email address then put the condition on Confirm Button As your choice
 
-![Screenshot_20220802-155541](https://user-images.githubusercontent.com/93259715/182362355-d8ce747e-fd0f-4f9d-8caf-60c9e41bcb5f.png)
+![Capture4](https://user-images.githubusercontent.com/93259715/183829719-56909e1b-632d-4fb0-99ad-2c319fd376fd.PNG)
 
 
 after clicking on facebook button Facebook Login Page will open
 
-![Screenshot_20220802-155534](https://user-images.githubusercontent.com/93259715/182362822-8d6d1cfb-0cde-42db-93ae-c9e191217c83.png)
+![Capture6](https://user-images.githubusercontent.com/93259715/183829766-605d425a-1682-4d8e-b9de-b8c31965eae2.PNG)
 
 
 after clicking on Google Button new tab is open like this
 
+![Capture7](https://user-images.githubusercontent.com/93259715/183829827-0076f838-5f6c-4a18-8e8d-939e4b80c130.PNG)
+
+
 at the last this is our main screen this in we show the user profile,name and email address with the logout button
 
 
-![Screenshot_20220802-155603](https://user-images.githubusercontent.com/93259715/182362983-187d41cd-be90-4948-9105-8fdd6ea9f66d.png)
+![Capture8](https://user-images.githubusercontent.com/93259715/183829870-dc0ad4f3-07b0-4c48-839e-09f24bd608f1.PNG)
 
 
 
